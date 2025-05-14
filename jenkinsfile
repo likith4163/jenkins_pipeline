@@ -10,7 +10,7 @@ pipeline {
 
         stage('Unit and Integration Tests') {
             steps {
-                echo 'Using Mocha and Chai for unit tests and Postman for integration tests.'
+                echo 'Mocha and Chai'
             }
         }
 
