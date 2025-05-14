@@ -16,7 +16,7 @@ pipeline {
 
         stage('Code Analysis') {
             steps {
-                echo 'Using ESLint to perform static code analysis for JavaScript code quality.'
+                echo 'ESLint'
             }
         }
 
