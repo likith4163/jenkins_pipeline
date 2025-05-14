@@ -10,7 +10,7 @@ pipeline {
 
         stage('Unit and Integration Tests') {
             steps {
-                echo 'Mocha and Chai'
+                echo 'Mocha and Chai.'
             }
         }
 
