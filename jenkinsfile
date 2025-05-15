@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Using Maven to build and package the Node.js application.'
+                echo 'Using Maven to build and package the Node.js application.dsdsd'
             }
         }
 
